@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Pratham! Great to see you here</h2>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Pratham! Great to see you here</h2>
 <h3 align="Left">About Me :</h3>
 
 I am a Full Stack Developer with experience in building open-source project. I am tech & open source enthusiasts. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.
